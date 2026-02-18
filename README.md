@@ -4,4 +4,4 @@
 **Register Number:** 23BAD075  
 
 ## 📌 Project Overview
-This repository contains the Exploratory Data Analysis (EDA) performed on the **[Insert Dataset Name, e.g., Titanic / Housing Prices]** dataset. The goal of this project is to understand the data structure, detect patterns, handle missing values, and visualize relationships between variables.
+This repository contains the Exploratory Data Analysis (EDA) performed on the given dataset. The goal of this project is to understand the data structure, detect patterns, handle missing values, and visualize relationships between variables.
